@@ -22,7 +22,7 @@ require_once("config.php");
 
 //echo $usuario;
 
-$aluno = new Usuario("aluna", "345645");
+$aluno = new Usuario("Edna", "234531");
 
 $aluno->insert();
 
